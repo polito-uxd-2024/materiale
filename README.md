@@ -12,6 +12,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Scenari, storyboard, e prototipazione a bassa fedeltà](./slides/05-scenarios-storyboards-lowfi.pdf)  
 * [Design principles](./slides/06-design-principles.pdf)  
 * [Interazione con l'Intelligenza Artificiale](./slides/07-ai-interaction.pdf)
+* [Approcci gamificati](./slides/08-gamification.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
