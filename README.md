@@ -13,10 +13,12 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Design principles](./slides/06-design-principles.pdf)  
 * [Interazione con l'Intelligenza Artificiale](./slides/07-ai-interaction.pdf)
 * [Approcci gamificati](./slides/08-gamification.pdf)
+* [Valutazione Euristica](./slides/09-heuristic-evaluation.pdf)
+	* [Esercizio](./slides/09b-heuristic-evaluation-exercise.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
 * [Assignment 2](./assignments/A2-storyboard-paper-prototypes.pdf)
-* Assignment 3
+* [Assignment 3](./assignments/A3-heuristic-evaluation.pdf)
 * Assignment 4
 * Assignment 5
