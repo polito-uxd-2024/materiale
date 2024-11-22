@@ -15,6 +15,11 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Approcci gamificati](./slides/08-gamification.pdf)
 * [Valutazione Euristica](./slides/09-heuristic-evaluation.pdf)
 	* [Esercizio](./slides/09b-heuristic-evaluation-exercise.pdf)
+* [Visual design](./slides/10-visualdesign.pdf)
+* [Design patterns](./slides/11-design-patterns.pdf)
+* [Prototipazione a media fedeltà](./slides/12-mid-fi-prototypes.pdf)
+* [Prototipazione ad alta fedeltà](./slides/13-hi-fi-prototypes-with-examples.pdf)
+* [Test di usabilità](./slides/14-usability-testing.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
